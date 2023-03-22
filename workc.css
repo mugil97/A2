@@ -1,0 +1,31 @@
+#flag {
+    width: 99px;
+    height: 50px;
+    border: 1px solid black;
+    position: relative;
+    background: white;
+}
+
+#flag:before {
+    content: "";
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    top: 0;
+    background: darkblue;
+    width: 33.33%;
+}
+#flag:after {
+    content: "";
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    top: 0;
+    background: red;
+    width: 33.33%;
+}
+
+
+   
+}
+

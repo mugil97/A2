@@ -1,0 +1,50 @@
+<html>
+<head>
+    <title> MUGILAN RESUME </title>
+</head>
+<body>
+    <p> Name : Mugilan.s </p>
+    <p> sof : mugil </p>
+    <p> mobile : 7339412675 </p>
+    Mail : <a href="mailto:smugilan02062001@gmail.com">smugilan02062001@gmail.com</a></p>
+<hr>
+<h2> Carrer objective </h2>
+<p> To empower my self and organisation </p>
+<h2> Technical Summary </h2>
+<ul>
+<li> contribute to Libra office project </li>
+<li> contribute to Mozilla common voice </li>
+<li> Done project through HTML,CSS and JAVA </li>
+</ul>
+<table border=1>
+<tr>
+    <th colspan = "5">Educational Qualification</th>
+</tr>
+<tr>
+    <th> Qualification </th>
+    <th> Department </th>
+    <th> College/Board </th>
+    <th> Year of passing </th>
+    <th> Percentage </th>
+</tr>
+<tr>
+    <td> S.S.L.C </td>
+    <td> senior </td>
+    <td> Jawahar Matric Hr Sec School </td>
+    <td> 2016 </td>
+    <td> 8.1 </td>
+</tr>
+<tr> 
+    <td> H.S.C</td>
+    <td> Bio-Maths </td>
+    <td> Jawahar Matric Hr Sec School </td>
+    <td> 2018 </td>
+    <td> 7.1</td>
+</tr>
+<tr> 
+    <td> B.Sc</td>
+    <td> Bio-Technology</td>
+    <td> K.S.R Educational Institution </td>
+    <td> 2021</td>
+    <td> 7.9</td>
+</tr>
